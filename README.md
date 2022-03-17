@@ -4,7 +4,7 @@ We imagine, we build.
 
 <h4 align="left">
 💡  &nbsp;Eu gosto de utilizar a tecnologia para facilitar "processos" tediosos.  <br />
-🎓 &nbsp;Graduando em Sistsemas de informação no instituto federald de Sergipe.  <br />
+🎓 &nbsp;Graduando em Sistemas de informação no instituto federal de Sergipe.  <br />
 🔎 &nbsp;Tenho minhas preferências de ferramantas, porém sou sempre aberto a novas <br/>
 🎮 &nbsp;No meu tempo livre eu costumo buscar conteúdos tecnológicos de softwares e hardwares e praticar alguns esportes ao ar livre <br/>
 💪 &nbsp;Desistir não é comigo <br/>
