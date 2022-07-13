@@ -33,6 +33,6 @@ We imagine, we build.
 </p>
 
 ### 🤝🏻 &nbsp;Entre em contato comigo
-[![Linkedin Badge](https://icon-icons.com/icons2/1233/PNG/48/1492718749-linkedin_83603.png)](https://www.linkedin.com/in/matheeuscavalcantee/)
+[![Linkedin Badge](https://icon-icons.com/icons2/1233/PNG/48/1492718749-linkedin_83603.png)](https://www.linkedin.com/in/matheuscavalcantee/)
 [![Instagram Badge](https://icon-icons.com/icons2/1233/PNG/48/1492718764-instagram_83597.png)](https://www.instagram.com/j_m4theus/)
 [![Email Badge](https://icon-icons.com/icons2/1233/PNG/48/1492718759-mail_83619.png)](mailto:jmatheusoc269@gmail.com)
